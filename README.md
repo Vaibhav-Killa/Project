@@ -34,5 +34,6 @@ The program allows the shopkeeper to select from a predefined list of items, cal
       1
 1.Newton Lawary                                                               ADTU/0/2025-28/BCAM/034
 2.Bibek Debnath                                                               ADTU/0/2025-28/BCAM/009
-3.Samir Chetri                                                                ADTU/0/2025-28/BCAM/030
-4.Shubh                                                                        ADTU/0/2025-28/BCAM/0
+3.Sameer Chetri                                                               ADTU/0/2025-28/BCAM/030
+4.Shubh Gaggar                                                                ADTU/0/2025-28/BCAM/010
+5.Vaibhav Killa                                                               ADTU/0/2025-28/BCAM/011
